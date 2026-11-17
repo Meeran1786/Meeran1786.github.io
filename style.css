@@ -1,0 +1,9 @@
+:root{color-scheme:dark}
+body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",sans-serif;background:linear-gradient(160deg,#0b0f2a,#3a0ca3);color:#eef;min-height:100vh;line-height:1.6}
+main{max-width:720px;margin:0 auto;padding:56px 24px}
+.logo{width:120px;height:120px;border-radius:50%;display:block}
+h1{font-size:2.2rem;margin:20px 0 8px}
+h2{margin-top:32px;font-size:1.2rem;color:#ffd84d}
+a{color:#ff8ad0}
+.card{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);border-radius:14px;padding:20px 24px;margin-top:24px}
+footer{margin-top:40px;font-size:.9rem;opacity:.75}
